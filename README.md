@@ -1,4 +1,4 @@
-![Мой портрет — разработчик Telegram-ботов](Developer-portrait.png)
+![BARBER BOT — онлайн-запись через Telegram](barber-bot-poster.png)
 # 💈 BARBER BOT
 ### Онлайн-запись клиентов в барбершоп прямо через Telegram
 
@@ -63,6 +63,7 @@ BARBER BOT можно адаптировать под ваш барбершоп:
 **Email:** veberkn@gmail.com
 
 Обсудим задачи вашего бизнеса и возможности автоматизации записи клиентов.
+![Мой портрет — разработчик Telegram-ботов](developer-portrait.png)
 
 ---
 
