@@ -39,7 +39,7 @@ BARBER BOT — готовая система онлайн-записи для б
 
 Посмотрите, как работает BARBER BOT: от выбора услуги до подтверждения записи и управления расписанием.
 
-Видео: [Смотреть демонстрацию](demo/barber-bot-demo.mp4)
+фото:https://github.com/VeberKn/barber-bot-presentation/tree/main/screenshots
 
 ## 🖼️ Интерфейс бота
 
