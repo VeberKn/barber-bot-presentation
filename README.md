@@ -1,3 +1,4 @@
+![Мой портрет — разработчик Telegram-ботов](developer-portrait.png)
 # 💈 BARBER BOT
 ### Онлайн-запись клиентов в барбершоп прямо через Telegram
 
